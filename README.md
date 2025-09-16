@@ -36,13 +36,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![Activiicties for fun :D](project1.png)
 
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
